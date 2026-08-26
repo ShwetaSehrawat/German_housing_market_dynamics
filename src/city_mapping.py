@@ -10,7 +10,7 @@ GREIX_NATIONAL = "GREIX_NATIONAL"
 CITY_NAME_MAP = {'FFM' : 'Frankfurt am Main',
                  'REK' : 'Rhein-Erft-Kreis',
                  'Mettmann' : 'Kreis Mettmann',
-                 'Mettmann_Kreis' : 'Kreis Mettmann',
+                 'Mettmann_kreis' : 'Kreis Mettmann',
                  'Greix' : GREIX_NATIONAL,
                  'GREIX' : GREIX_NATIONAL , }
 
